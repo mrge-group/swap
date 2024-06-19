@@ -37,11 +37,6 @@
     "scripts": {
         "test": "vendor/bin/phpunit"
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "4.0-dev"
-        }
-    },
     "config": {
         "allow-plugins": {
             "php-http/discovery": true
